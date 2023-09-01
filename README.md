@@ -1,4 +1,4 @@
-# Funes Chamber of Commerce<br> <i>The best community in Funes!</i>
+# Funes Chamber of Commerce<br> <i>The biggest COC in Funes!</i>
 <picture><img src="https://img.shields.io/badge/2023-blue?style=for-the-badge&label=APR"></picture>     <a href="https://www.linkedin.com/in/natanael-damatta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <picture><img src="https://github.com/ndamatta/funescoc/assets/105658793/c04f8fca-51a1-4816-b37c-ec5f52fd1e24"></picture>
